@@ -1,0 +1,3 @@
+Name: Alice, ID: 101, Salary: 50000.0
+Name: Bob, ID: 102, Salary: 80000.0, Bonus: $15000.0
+Name: Charlie, ID: 103, Salary: 90000.0, Bonus: $20000.0
