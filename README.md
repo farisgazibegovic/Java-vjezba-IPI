@@ -8,3 +8,4 @@ Faris Gazibegović, IPI Akademija Tuzla
 | 2. Izrazi i operatori | `src/OperatoriPrimjer.java` |
 | 3. Case Study 1 - Employee i Manager | `src/Employee.java`, `src/Manager.java`, `src/Main.java` |
 | 4. Challenge za EMS – Zadatak 1 | `EMS/src/ems/Employee.java`, `EMS/src/ems/Manager.java`, `EMS/src/ems/Intern.java`, `EMS/src/ems/PartTimeEmployee.java`, `EMS/src/ems/Main.java` |
+| 5. Comparable i Comparator | `src/Employee.java`, `src/Main.java` |
