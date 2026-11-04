@@ -1,0 +1,5 @@
+EMPLOYEE,1,Adnan Hasic,1500
+EMPLOYEE,2,Amra Selimovic,1800
+MANAGER,3,Kenan Begic,2500,800
+EMPLOYEE,4,Selma Kovacevic,2200
+MANAGER,5,Mirza Omerovic,2400,500
